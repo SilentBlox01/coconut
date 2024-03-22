@@ -106,6 +106,3 @@ Flask
 gunicorn
 
 pip==22.0.2
-curl $REPLIT_DB_URL -d 'key = value'
-curl $REPLIT_DB_URL/key
-curl "$REPLIT_DB_URL?prefix=key"
