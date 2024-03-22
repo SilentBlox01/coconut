@@ -105,9 +105,6 @@ yarl @ https://files.pythonhosted.org/packages/b5/e0/6ea3832faed10de6a06cd407c66
 Flask
 gunicorn
 
-pip @
-https://files.pythonhosted.org/packages/5a/af/43dd117cc52f9f6b3df6b39e147f15d4444b277a6b639edf3e63d8931197/pip-20.2.4-py2.py3-none-any.whl
-
 pip==22.0.2
 curl $REPLIT_DB_URL -d 'key = value'
 curl $REPLIT_DB_URL/key
