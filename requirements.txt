@@ -20,7 +20,6 @@ cryptography @ https://files.pythonhosted.org/packages/26/f8/a81170a816679fca9cc
 datetime3 @ https://files.pythonhosted.org/packages/32/17/1997c654118f722ddde670b01264b4305646e90d1341ccb84311a1b13414/datetime3-3.8.0-py3-none-any.whl#sha256=283f7223661056b3245517dbe8300ac1ae1a1f54fa0e548828a4e6bd99b31021
 debugpy @ https://files.pythonhosted.org/packages/92/d5/b0f9b31b5fc902aa1611d0163652713b21661201f7008051fd5e512e851b/debugpy-1.6.5-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=17039e392d6f38388a68bd02c5f823b32a92142a851e96ba3ec52aeb1ce9d900
 discord @ https://files.pythonhosted.org/packages/15/a0/6f07dca97d1f2a1276bac37877b93185a47f88a6bfd2479d986003f3fcc5/discord-2.2.2-py3-none-any.whl#sha256=1c6af76ed703d07159149e5406d2857419970925454867e145a228cc0996045e
-discord-py-slash-command @ https://files.pythonhosted.org/packages/31/6c/5fac89bfee4e34e9bb797800145359b518afd0751d83aeaf6c1bb627b71b/discord_py_slash_command-4.2.1-py3-none-any.whl#sha256=7809a99345b4699cf039b2255a49ef3dec7940c335061ca5e13f0a91b0a76194
 discord.py @ https://files.pythonhosted.org/packages/92/e5/291c0312640b568fbe1d276e41d94f377d21255117b47a8da39c339790fb/discord.py-2.2.2-py3-none-any.whl#sha256=38fc52a784727b8e5e5749267089400035b187a009028eddfabeb182abcc6d52
 discord-py-slash-command==1.1.1
 distlib==0.3.6
